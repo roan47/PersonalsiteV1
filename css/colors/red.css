@@ -17,11 +17,11 @@
 .hexagon-item:hover .hex-item div::after,
 .progress .bar,
 .contact-social li:hover span {
-  background-color: #FA6862;
+  background-color: #bcc1c73f;
 }
 
 .nicescroll-cursors {
-  background: #FA6862 !important;
+  background: #62a6fa37 !important;
 }
 
 /* color */
@@ -30,7 +30,7 @@
 .filter .active,
 .works-item h4,
 .msg-success {
-  color: #FA6862;
+  color: #62a6fad4;
 }
 
 /* border color */
@@ -42,7 +42,7 @@
 .site-wrapper,
 .contact-social li:hover span::after,
 .contact-social-hex:hover::before {
-  border-top-color: #FA6862;
+  border-top-color: #6267fa41;
 }
 
 /* border bottom color */
